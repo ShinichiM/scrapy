@@ -15,3 +15,6 @@ for item in results:
     data_str.append(item.get_text())
 
 print(data_str)
+
+# Run every hour, to get top 7 news postings on reddit 
+# Cataegorize post titles and then map general public intersest in news?
